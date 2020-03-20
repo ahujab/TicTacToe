@@ -11,9 +11,4 @@ Hi! This is a sample tic tac toe game writen in python(3.7.x).
 7. In case it is a tie game, check if the board if full and there is no more space for players to play.
 8. Print out the winner or tied game.
 
-## Future Improvements
-1. Create a computer player(AI).
-2. Let first user decide if he wants to be X or O.
-3. Random the first user that is going to play.
 
-### Thanks for visiting my repository!!
